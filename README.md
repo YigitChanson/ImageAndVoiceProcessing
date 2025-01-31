@@ -18,7 +18,6 @@ NuGet packages used for Image Processing:
     -Emgu.CV.Bitmap
     -Emgu.CV.Models
     -Emgu.CV.runtime.windows (or whatever you are using)
-    -
 
 NuGet packages used for Voice Processing:
 
